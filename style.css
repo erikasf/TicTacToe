@@ -1,0 +1,18 @@
+*{
+	background-color: black;
+	color: white;
+}
+h1{
+	text-align: center;
+	color: silver;
+}
+
+form[name=game]{
+	margin-left:30%;
+	margin-top: 10%;
+}
+input[type=text]{
+
+	color: white;
+	border: 6px inset #808080;
+}
